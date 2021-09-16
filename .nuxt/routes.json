@@ -3,36 +3,42 @@
     "name": "cart",
     "path": "/cart",
     "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\DELLL\\\\apisful-nuxtjs-ecommerce-main\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\cart.vue",
-    "chunkName": "pages/cart"
+    "chunkName": "pages/cart",
+    "_name": "_19e0f0ee"
   },
   {
     "name": "categories",
     "path": "/categories",
     "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\DELLL\\\\apisful-nuxtjs-ecommerce-main\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\categories\\\\index.vue",
-    "chunkName": "pages/categories/index"
+    "chunkName": "pages/categories/index",
+    "_name": "_ce8f2dc6"
   },
   {
     "name": "products",
     "path": "/products",
     "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\DELLL\\\\apisful-nuxtjs-ecommerce-main\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\products\\\\index.vue",
-    "chunkName": "pages/products/index"
+    "chunkName": "pages/products/index",
+    "_name": "_3fe4aed6"
   },
   {
     "name": "categories-category",
     "path": "/categories/:category",
     "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\DELLL\\\\apisful-nuxtjs-ecommerce-main\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\categories\\\\_category.vue",
-    "chunkName": "pages/categories/_category"
+    "chunkName": "pages/categories/_category",
+    "_name": "_48ae40b0"
   },
   {
     "name": "products-product",
     "path": "/products/:product",
     "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\DELLL\\\\apisful-nuxtjs-ecommerce-main\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\products\\\\_product.vue",
-    "chunkName": "pages/products/_product"
+    "chunkName": "pages/products/_product",
+    "_name": "_729fd786"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\DELLL\\\\apisful-nuxtjs-ecommerce-main\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_34ad72b9"
   }
 ]
